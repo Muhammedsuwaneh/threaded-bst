@@ -10,7 +10,7 @@
 
 struct BSTNode {
 	int key;
-	BSTNode* left, * right;
+	BSTNode* left, *right;
 	char leftLinkType, rightLinkType; // The link type for the left/right pointers (CHILD or THREAD)
 
 	// When the node is first created, it is a leaf node. So, both links must be THREAD

@@ -1,0 +1,2 @@
+C:\Users\PROJECT VENUS\Documents\C++ Data Structures and Algorithms\Assigments\Threaded BST\Lab05\Debug\Lab5.exe
+C:\Users\PROJECT VENUS\Documents\C++ Data Structures and Algorithms\Assigments\Threaded BST\Lab05\Debug\Lab5.pdb

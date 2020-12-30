@@ -61,6 +61,7 @@ int Test1() {
 	if (p->right != root->right) return 0;
 
 	// Forward walk
+	
 	vector<int> keys = { 2, 5, 6, 7, 10, 12, 15 };
 	p = bst.min();
 	for (auto key : keys) {
